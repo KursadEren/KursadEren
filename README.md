@@ -1,15 +1,58 @@
+<h1 align="center">Kürşad Eren Maden</h1>
 
-<h1 align="center">Hi 👋, I'm Kürşad Eren MADEN</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <b>Computer Engineer</b> · İstanbul, Türkiye<br>
+  I build mobile apps, web systems and the APIs behind them —<br>
+  then deploy and keep them running on servers I set up myself.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kursad-maden"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://upneo.space"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=flat-square&logo=firefox-browser&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:k.erenmaden11@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-<h3 align="left">Contribution Graph:</h3>
+---
+
+## 🟢 Running in production
+
+Systems I wrote, deployed and still maintain — on my own VPS, with my own Nginx, SSL and backups.
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **[7:15 Sanat ve Kahve](https://7onbes.com)** | Digital menu and admin panel for a café — 65+ products, zero dependencies, SPA hash routing, bcrypt auth, IP-based rate limiting | Vanilla JS (ES6+) · PHP 8.3 · Nginx |
+| **[e-davet.store](https://e-davet.store)** | Digital invitation store — 40+ REST endpoints, 12 tables, e-mail / SMS / WhatsApp delivery, role-based access | React 18 · Vite · Node.js · Express · SQLite · JWT |
+| **[upneo.space](https://upneo.space)** | Portfolio and HydroPlant API — 31 REST endpoints, JWT auth, gamification engine | PHP · Node.js · FastAPI · Apache |
+| **[StreamMask](https://github.com/KursadEren/streammask)** | Published Chrome extension — masks phone numbers, e-mails, IDs, IBAN and cards live on any page. 8 languages, checksum-validated detection, Luhn card validation | Manifest V3 · JavaScript · i18n |
+
+## 📌 Selected work
+
+- **[MyYapayApp](https://github.com/KursadEren/MyYapayApp)** — graduation project. A hybrid CNN that takes a candlestick-chart image *and* four numeric indicators. Trained in PyTorch, exported to ONNX and quantized **43 MB → 11 MB** so it runs on-device inside a React Native app. Training set of 780+ charts generated by [my own tool](https://github.com/KursadEren/my-appBitirme).
+- **[mobile-app-orchestral](https://github.com/KursadEren/mobile-app-orchestral)** — multi-agent LLM system that plans and builds mobile app features end to end.
+- **[streammask-desktop](https://github.com/KursadEren/streammask-desktop)** — macOS stream-privacy tool: hides chosen apps and notifications while live, plus a browser window screen capture cannot see.
+- **[agent-skills](https://github.com/KursadEren/agent-skills)** — production-grade engineering skills for AI coding agents.
+- **[SmartLeadAi](https://github.com/KursadEren/SmartLeadAi)** — live sales assistant built with Python and Flask.
+
+## 🛠 Stack
+
+**Mobile** React Native · Flutter · Kotlin · Jetpack Compose · Expo
+**Backend** Node.js · Express · Python · FastAPI · PHP · REST API design · WebSocket · SSE · JWT · bcrypt
+**Frontend** React · TypeScript · JavaScript (ES6+) · Tailwind CSS · Vite · Zustand
+**Data & AI** PostgreSQL · MySQL · SQLite · Room · Firebase · PyTorch · ONNX Runtime · model quantization
+**Ops** Linux · Nginx · PM2 · Let's Encrypt · UFW · Git · CI/CD with GitHub Actions
+**Game** Unity (2D/3D, URP) · C# · Three.js · Blender
+
+## 🎓 Education
+
+- **M.Sc. Computer Engineering** — Sakarya University *(2026 – 2028, ongoing)*
+- **B.Sc. Computer Engineering** — Sakarya University *(graduated December 2025)*
+- **International Project Specialist Programme** — Human Ports / TNC Group, Belgrade — CPD-accredited, 191 hours
+
+---
+
+<h3 align="center">Contribution graph</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KursadEren/KursadEren/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KursadEren/KursadEren/output/github-snake.svg" />
-  <img alt="github katki grafigini yiyen yilan animasyonu" src="https://raw.githubusercontent.com/KursadEren/KursadEren/output/github-snake.svg" />
+  <img alt="snake eating the github contribution graph" src="https://raw.githubusercontent.com/KursadEren/KursadEren/output/github-snake.svg" />
 </picture>
